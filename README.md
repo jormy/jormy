@@ -1,4 +1,4 @@
-<h1>jorm</h1>
+<h1>hi 🌊</h1>
 
 ### _Discord_
 [![Discord DM](https://discord-md-badge.vercel.app/api/shield/743010360340250725?theme=discord-inverted)](https://discordapp.com/users/743010360340250725)
