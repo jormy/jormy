@@ -3,6 +3,7 @@
 ### _Discord_
 [![Discord DM](https://discord-md-badge.vercel.app/api/shield/743010360340250725?theme=discord-inverted)](https://discordapp.com/users/743010360340250725)
 
+### _Profile Views_
 <img src="https://profile-counter.glitch.me/sirjorm/count.svg" />
 
 ### _Stats_
