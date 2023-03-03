@@ -1,4 +1,5 @@
 <h1>hi, im jorm 🌊</h1>
+i don't know what i'm doing
 
 ### _Discord_
 [![Discord DM](https://discord-md-badge.vercel.app/api/shield/743010360340250725?theme=discord-inverted)](https://discordapp.com/users/743010360340250725)
