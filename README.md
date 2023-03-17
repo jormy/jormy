@@ -13,6 +13,4 @@ i don't know what i'm doing
     <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&title_color=1c7eff&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
 </p>
 
-![Metrics](https://raw.githubusercontent.com/gist/sirjorm/c41e74d7c64594526d8c6dc5c77adc23/raw/github-metrics.svg)
-
 ![Snake animation](https://github.com/sirjorm/sirjorm/blob/output/github-contribution-grid-snake.svg)
