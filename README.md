@@ -6,12 +6,12 @@ i don't know what i'm doing
 
 ### _Profile Views_
 <img src="https://profile-counter.glitch.me/sirjorm/count.svg" />
-<!-- To be fixed, github thinks i doesnt exist or smth lmao
+
 ### _Stats_
 <p>
     <img alt="jorm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sirjorm&include_all_commits=true&show_icons=true&title_color=1c7eff&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
     <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&title_color=1c7eff&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
 </p>
--->
+
 
 ![Snake animation](https://github.com/sirjorm/sirjorm/blob/output/github-contribution-grid-snake.svg)
