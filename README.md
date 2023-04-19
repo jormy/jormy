@@ -21,3 +21,7 @@ professnial silly 🤓
 discord is a tool (real)
 
 ![Snake animation](https://github.com/sirjorm/sirjorm/blob/output/github-contribution-grid-snake.svg)
+
+<hr />
+
+<p>made you read, lol</p>
