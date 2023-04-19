@@ -8,8 +8,8 @@ i don't know what i'm doing
 <img src="https://profile-counter.glitch.me/sirjorm/count.svg" />
 
 ### _Stats_
-<p style="display: flex; gap: 3rem">
-    <img alt="jorm's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sirjorm&show_icons=true&theme=github_dark_dimmed" style="height: 11rem"/>
+<p>
+    <img alt="jorm's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sirjorm&show_icons=true&theme=github_dark_dimmed" style="height: 11rem; padding-right: 1rem"/>
     <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&theme=github_dark_dimmed" style="height: 11rem"/>
 </p>
 
