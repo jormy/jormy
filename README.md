@@ -10,8 +10,7 @@ i don't know what i'm doing
 ### _Stats_
 <p>
     ![jorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirjorm&show_icons=true&theme=github_dark_dimmed)
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-    <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&title_color=1c7eff&text_color=c9d1d9&bg_color=202024 height="160em" "/>
+    <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&title_color=1c7eff&text_color=c9d1d9&bg_color=202024" height="160em"/>
 </p>
 
 ![Snake animation](https://github.com/sirjorm/sirjorm/blob/output/github-contribution-grid-snake.svg)
