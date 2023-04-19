@@ -15,7 +15,7 @@ professnial silly 🤓
 </p>
 
 ### _Tools & Languages_
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,next,tailwind,vscode,figma,github,discord)](https://skillicons.dev)
+<img alt="jorm's skill issues" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,next,tailwind,vscode,figma,github,discord" />
 <br />
 <br />
 discord is a tool (real)
