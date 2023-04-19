@@ -11,7 +11,7 @@ i don't know what i'm doing
 <p>
     <img alt="jorm's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sirjorm&show_icons=true&theme=github_dark_dimmed" style="height: 10rem"/>
     <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&theme=github_dark_dimmed" style="height: 10rem"/>
-    <img alt="jorm's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=sirjorm" />
+    <img alt="jorm's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorm" />
 </p>
 
 ![Snake animation](https://github.com/sirjorm/sirjorm/blob/output/github-contribution-grid-snake.svg)
