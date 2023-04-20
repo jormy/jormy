@@ -1,4 +1,4 @@
-<h1>jorm 👽</h1>
+# `jorm`
 professnial silly 🤓
 
 ### _Discord_
@@ -16,9 +16,7 @@ professnial silly 🤓
 
 ### _Tools & Languages_
 <img alt="jorm's skill issues" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,next,tailwind,vscode,figma,github,discord" />
-<br />
-<br />
-discord is a tool (real)
+<p>discord is a tool (real)</p>
 
 ![Snake animation](https://github.com/sirjorm/sirjorm/blob/output/github-contribution-grid-snake.svg)
 
