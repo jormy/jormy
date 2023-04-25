@@ -1,20 +1,20 @@
 # `jorm`
 professnial silly 🤓
 
-### _Discord_
+### _discord_
 [![Discord DM](https://discord-md-badge.vercel.app/api/shield/743010360340250725?theme=discord-inverted)](https://discordapp.com/users/743010360340250725)
 
-### _Profile Views_
+### _hits_
 <img src="https://profile-counter.glitch.me/sirjorm/count.svg" />
 
-### _Stats_
+### _stats_
 <p>
     <img alt="jorm's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sirjorm&show_icons=true&theme=github_dark_dimmed" style="height: 10rem"/>
     <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&theme=github_dark_dimmed" style="height: 10rem"/>
     <img alt="jorm's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorm&theme=github_dark_dimmed&layout=compact" /> 
 </p>
 
-### _Tools & Languages_
+### _tools n langs_
 <img alt="jorm's skill issues" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,next,tailwind,vscode,figma,github,discord" />
 <p>discord is a tool (real)</p>
 
