@@ -11,8 +11,7 @@ professnial silly cat
 ### _stats_
 <p>
     <img alt="jorm's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sirjorm&show_icons=true&theme=github_dark_dimmed" style="height: 10rem"/>
-    <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&theme=github_dark_dimmed" style="height: 10rem"/>
-    <img alt="jorm's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jorm&theme=github_dark_dimmed&layout=compact" /> 
+    <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&theme=github_dark_dimmed" style="height: 10rem"/> 
 </p>
 
 ### _tools n langs_
