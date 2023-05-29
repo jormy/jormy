@@ -8,11 +8,6 @@ professnial silly cat
 ### _hits_
 <img src="https://profile-counter.glitch.me/sirjorm/count.svg" />
 
-### _stats_
-<p>
-    <img alt="jorm's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sirjorm&show_icons=true&theme=github_dark_dimmed" style="height: 10rem"/>
-    <img alt="jorm's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjorm&layout=compact&theme=github_dark_dimmed" style="height: 10rem"/> 
-</p>
 
 ### _tools n langs_
 <img alt="jorm's skill issues" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,next,tailwind,vscode,figma,github,discord" />
