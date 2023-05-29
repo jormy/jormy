@@ -13,10 +13,3 @@ professnial silly cat
 <img alt="jorm's skill issues" src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,next,tailwind,vscode,figma,github,discord" />
 
 <p>discord is a tool (real)</p>
-
-![Snake animation](https://github.com/sirjorm/sirjorm/blob/output/github-contribution-grid-snake.svg)
-
-<hr />
-
-<p>made you read aha</p>
-</samp>
